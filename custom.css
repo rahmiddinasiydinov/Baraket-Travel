@@ -1,0 +1,6 @@
+.u-nav-item{
+    select{
+        border: 1px solid black;
+        border-radius: 8px;
+    }
+}
