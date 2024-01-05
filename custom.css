@@ -4,3 +4,17 @@
         border-radius: 8px;
     }
 }
+
+.u-nav-lang{
+    display: flex !important;
+    justify-content: center;
+    .u-nav-link{
+        border: none;
+        background-color: black;
+
+        /* option{
+            background-color: black;
+            color: white;
+        } */
+    }
+}
